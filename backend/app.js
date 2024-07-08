@@ -5,7 +5,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import path from 'path';
 import cors from 'cors';
-import { data } from './data';
+import data from './data.js';
 // const route = require('./routes/route.js');
 
 dotenv.config();
@@ -28,7 +28,7 @@ app.get('/api/superhero', async (req, res) => {
   }
 })
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}`)

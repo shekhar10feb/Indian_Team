@@ -1,4 +1,4 @@
-export const data = [
+const data = [
     {
         id: 1,
         photo: 'https://res.cloudinary.com/durbit5ho/image/upload/v1720197721/Cricket_World_2024_pictures/gpnf8schxvnm7sg6byiv.jpg',
@@ -40,3 +40,5 @@ export const data = [
     },
 
 ];
+
+export default data;
