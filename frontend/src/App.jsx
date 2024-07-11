@@ -3,7 +3,7 @@ import "./App.css";
 import Loading from "./Loading";
 import Players from "./Players";
 
-const baseURL = "http://localhost:3000/api/superhero";
+const baseURL = "https://indian-team.onrender.com/api/superhero";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
