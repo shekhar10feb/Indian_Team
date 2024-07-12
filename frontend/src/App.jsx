@@ -3,7 +3,7 @@ import "./App.css";
 import Loading from "./Loading";
 import Players from "./Players";
 
-const baseURL = "https://indian-team-ah03xemy4-shekhar-ranjans-projects.vercel.app/api/superhero";
+const baseURL = "https://indian-team-e0k3n8o09-shekhar-ranjans-projects.vercel.app/api/superhero";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
