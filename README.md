@@ -1,1 +1,2 @@
-Check the full-stack website here: [Indian Team](https://668ca36ad6815410c9ca7470--indian-cricket-t20-champion-team.netlify.app/)
+This is Full-Stack Website made up of framework Reactjs in frontend and expressjs in Backend.
+Check the full-stack website here: [Indian Team](https://indian-team.netlify.app/)
